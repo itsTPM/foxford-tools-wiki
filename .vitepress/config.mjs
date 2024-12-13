@@ -13,6 +13,7 @@ export default defineConfig({
         items: [
           { text: "Главная", link: "/" },
           { text: "Возможности расширения", link: "/features" },
+          { text: "Часто задаваемые вопросы", link: "/faq" },
         ],
       },
     ],
