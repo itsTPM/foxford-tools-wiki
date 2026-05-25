@@ -5,8 +5,8 @@
 [GitHub](https://github.com/itsTPM/foxford-tools)
 
 <a href="https://chromewebstore.google.com/detail/foxford-tools/mmhgkmkmoepfpcakdkajpendcnjichhm">  
-  <img src="assets/index/google.png" alt="Доступно в Chrome Web Store" height="58">
+  <img src="/assets/index/google.png" alt="Доступно в Chrome Web Store" height="58">
 </a>
 <a href="https://addons.mozilla.org/ru/firefox/addon/foxford-tools/">
-  <img src="assets/index/mozilla.png" alt="Доступно в Firefox Add-ons" height="58">
+  <img src="/assets/index/mozilla.png" alt="Доступно в Firefox Add-ons" height="58">
 </a>
