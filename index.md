@@ -4,4 +4,9 @@
 
 [GitHub](https://github.com/itsTPM/foxford-tools)
 
-[![Доступно в Chrome Web Store](https://developer.chrome.com/static/docs/webstore/branding/image/UV4C4ybeBTsZt43U4xis.png)](https://chromewebstore.google.com/detail/foxford-tools/mmhgkmkmoepfpcakdkajpendcnjichhm)
+<a href="https://chromewebstore.google.com/detail/foxford-tools/mmhgkmkmoepfpcakdkajpendcnjichhm">  
+  <img src="assets/index/google.png" alt="Доступно в Chrome Web Store" height="58">
+</a>
+<a href="https://addons.mozilla.org/ru/firefox/addon/foxford-tools/">
+  <img src="assets/index/mozilla.png" alt="Доступно в Firefox Add-ons" height="58">
+</a>

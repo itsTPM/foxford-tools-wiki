@@ -2,9 +2,9 @@
 
 ## Как установить расширение?
 
-Установка производится в [официальном магазине расширений Chrome](https://chromewebstore.google.com/detail/foxford-tools/mmhgkmkmoepfpcakdkajpendcnjichhm). Пока что поддерживаются только Chromium-браузеры для компьютеров: Google Chrome, Microsoft Edge, Opera и другие.
+Установка производится в [официальном магазине расширений Chrome](https://chromewebstore.google.com/detail/foxford-tools/mmhgkmkmoepfpcakdkajpendcnjichhm) для Chromium-браузеров (Google Chrome, Microsoft Edge, Opera и другие) либо в [официальном магазине расширений Firefox](https://addons.mozilla.org/ru/firefox/addon/foxford-tools/) для браузера Mozilla Firefox.
 
-Поддержка Mozilla Firefox скоро возобновится.
+Установить расширение можно только на компьютере. В будущем планируется поддержка Mozilla Firefox для Android.
 
 Для Safari расширения нет, так как для публикации расширения в App Store разработчику (мне) нужно было бы платить $99 в год.
 
